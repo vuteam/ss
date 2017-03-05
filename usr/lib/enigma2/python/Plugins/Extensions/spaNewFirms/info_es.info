@@ -1,0 +1,26 @@
+Esta herramienta facilita al usuario el proceso de actualización del firmware del receptor, permitiendo mantener la configuración, canales, plugins... después de instalar el nuevo firmware. También realiza la descompresión del archivo zip para su posterior instalación.
+
+PREREQUISTOS
+------------------------------
+Un hdd interno o externo, montado como /media/hdd para realizar la copia. Esta se hará en la carpeta /backup, y por supuesto con espacio libre para la copia, 50-60Mb deberían ser suficientes.
+Un pendrive formateado en fat32 con, al menos, 200Mb libres. Es indiferente si tiene otros archivos o carpetas, no se perderán.
+
+INSTRUCCIONES DE USO
+------------------------------
+1) Descargar desde http://openspa.info la última versión del firmware para el receptor y guardar el archivo .zip (sin descomprimir) en el raiz del pendrive/usb. 
+
+2) Ejecutar el plugin. Elegir el archivo zip descargado en el paso anterior. También es posible descomprimir manualmente el archivo zip; en este caso, elegir la carpeta típica de instalación de su receptor.
+
+3) Pulsando [VERDE] vamos al paso siguiente del asistente, elegimos qué queremos incluir en la copia. Es posible que haya algun plugin/skin puntual que no se pueda copiar, o que no funcione correctamente en el nuevo firmware. No se instalarán los plugins/skins que puedan provocar errores, deberán ser instalados a mano después de actualizar.
+
+4) El siguiente paso se inicia automáticamente, se creará una copia de la configuración y se descomprimirá el archivo zip (si procede).
+
+5) Reiniciar el receptor pulsando la tecla [VERDE], e instalar el nuevo firm[#prt#]. También se puede salir sin reiniciar y hacer el reinicio más tarde manualmente.
+
+6) Después de instalar comenzará el proceso de restauración (dependiendo del modelo y las opciones elegidas, éste proceso puede tardar varios minutos). Una vez terminado podrá elegir si mantener o no lo plugins openSPA que ya tenía o instalar alguno nuevo. Marque los que desee y pulse [VERDE] para instalarlos.
+
+7) Por último se reiniciará el equipo y ya podrá disfrutar de la nueva imagen de OpenSPA.
+*NOTA: El skin será cambiado al skin por defecto de la nueva imagen, por motivos de compatibilidad. La contraseña anterior también será restaurada.
+
+------------------------------
+Recuerde que, para cualquier duda o problema, estamos a su disposición en http://openspa.info

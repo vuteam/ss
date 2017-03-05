@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-10 16:35+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: morser\n"
+"Language-Team: OpenSPA <openspa.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Language: es_ES\n"
+
+msgid "Add timer"
+msgstr "Añadir temporiz."
+
+msgid "Always"
+msgstr "Siempre"
+
+msgid "Append %d events to Record Timers."
+msgstr "Añadidos %d eventos a las programaciones."
+
+msgid "By Name"
+msgstr "Por Nombre"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "Do you really want to delete %s?"
+msgstr "Seguro que quiere eliminar %s?"
+
+msgid "Episode"
+msgstr "Episodio"
+
+msgid "From"
+msgstr "Desde"
+
+msgid "Never"
+msgstr "Nunca"
+
+msgid "New"
+msgstr "Nuevo"
+
+msgid "New Search"
+msgstr "Nueva búsqueda"
+
+msgid "No Events to show"
+msgstr "No hay eventos para mostrar"
+
+msgid "Number of days to search the epg:"
+msgstr "Número de dias de la EPG en los que buscar"
+
+msgid "On wakeup, show Screen after (seg):"
+msgstr "Al despertar, mostrar la pantalla al cabo de (seg):"
+
+msgid "Only show screen From time:"
+msgstr "Mostrar la ventana sólo desde:"
+
+msgid "Save"
+msgstr "Guardar"
+
+msgid "Search All"
+msgstr "Buscar todo"
+
+msgid "Search List"
+msgstr "Resultados"
+
+msgid "Search Timer List"
+msgstr "Lista de temporizadores"
+
+msgid "Search Timers"
+msgstr "Búsqueda programada"
+
+msgid "Search Timers Configuration"
+msgstr "Búsqueda programada - Config."
+
+msgid "Search programmed in the epg"
+msgstr "Búsqueda programada en la EPG"
+
+msgid "Season"
+msgstr "Temporada"
+
+msgid "Season (0 for all seasons)"
+msgstr "Temporada (0 para todas)"
+
+msgid "Settings"
+msgstr "Configuración"
+
+msgid "Show Search Results in wakeup:"
+msgstr "Mostrar los resultados al despertar:"
+
+msgid "TV Series"
+msgstr "Series de TV"
+
+msgid "TV Series Timers"
+msgstr "Programaciones Series TV"
+
+msgid "The entry already exists"
+msgstr "La entrada ya existe"
+
+msgid "View Entries"
+msgstr "Ver Entradas"
+
+msgid "once a day"
+msgstr "Una vez al dia"
+
+msgid "Find new episodes every day at"
+msgstr "Buscar nuevos episodios cada dia a las"

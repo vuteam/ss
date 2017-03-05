@@ -1,0 +1,26 @@
+This tool provides the user a quick and easy firmware update process of the receiver, creating a basic copy settings to keep channels, plugins... and restoring it after installing the new firmware. It also performs decompression of the .zip file for later installation.
+
+PREREQUISITES
+------------------------------
+An internal or external hdd, mounted as /media/hdd where to create backup. This will be done in the folder /hdd/backup, and of course with enough free space for the copy, 50-60Mb should be sufficient.
+A flash drive formatted in FAT32 with at least 200MB free. Whether you have other files or folders, they will not be lost.
+
+INSTRUCTIONS
+------------------------------
+1) Download from http://openspa.info the latest firmware for your receiver and save the .zip file (unpacked) in the root of the flash drive / usb.
+
+2) Run the plugin. Select the zip file downloaded in previous step. You can also manually unzip the zip file, then choose the typical installation folder of your receiver
+
+3) Press [GREEN] to go to step 2 of the wizard, choose what you want include in the backup. Note that may be some plugin/skin that could not be copied, or not function properly in the new firmware.
+
+4) The third step starts automatically the backup and unzip the .zip file (if applicable)
+
+5) Reset the receiver by pressing the [GREEN] button, following the typical protocol for installing from the USB[#prt#]. You can also exit without rebooting and do manually restart later.
+
+6) After install the new firmware from the USB, it automatically starts the restoration process (depending on model and options chosen, this process can take several minutes). Once completed, you can choose whether to keep which plugins they already had from openSPA plugins or install some new ones. Mark which ones you want and press [GREEN] to install it.
+
+7) Finally, the box will reboot and you will enjoy the new openSPA firmware
+*NOTE: The skin will be changed to the default skin for the new firmware, for compatibility reasons. Your old password will also be restored.
+
+------------------------------
+Remember that any doubts or problems you'll find us at http://openspa.info

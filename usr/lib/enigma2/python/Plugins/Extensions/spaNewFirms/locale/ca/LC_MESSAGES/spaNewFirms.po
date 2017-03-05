@@ -1,0 +1,276 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Enigma2 spaNewFirms Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-26 14:23+0100\n"
+"PO-Revision-Date: 2016-09-29 21:47+0100\n"
+"Last-Translator: pe.tardo <pe.thardo@gmail.com>\n"
+"Language-Team: openSPA <openspa.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca_CA\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-Language: Catalan\n"
+"X-Poedit-Country: CATALONIA\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+
+msgid "openSPA updates wizard"
+msgstr "Assistent d'actualització OpenSPA"
+
+msgid "Creates a basic copy settings to keep updating the firmware of the receiver."
+msgstr "Crea una còpia bàsica per actualitzar el firmware del receptor i mantenir la configuració actual."
+
+msgid "This tool that creates a basic copy settings to keep updating the firmware of the receiver."
+msgstr "Aquesta eina crea una còpia bàsica per mantenir la configuració, canals, plugins..., quan s'actualitzi el firmware del receptor."
+
+msgid "Home"
+msgstr "Inici"
+
+msgid "Options"
+msgstr "Opcions"
+
+msgid "Build"
+msgstr "Preparar"
+
+msgid "Finish"
+msgstr "Finalitzar"
+
+msgid "Cancel"
+msgstr "Cancel·lar"
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "Back"
+msgstr "Enrere"
+
+msgid "Enter the new firm in usb path supplied by the manufacturer for this box"
+msgstr "Introduïu el nou firm a la ruta de l'usb proporcionada pel fabricant"
+
+msgid "Enter the new firm in usb stick"
+msgstr "Introduïu el nou firmware a l'usb a"
+
+msgid "Press"
+msgstr "Premeu el botó"
+
+msgid "button in front panel when restart"
+msgstr "al frontal del receptor en reiniciar per a instal·lar"
+
+msgid "box button when restart"
+msgstr "al receptor en reiniciar per a instal·lar"
+
+msgid "Use flastool image for this box"
+msgstr "Utilitzeu l'eina d'instal·lació específica per a aquest receptor"
+
+msgid "Include channel list"
+msgstr "Incloure llista de canals"
+
+msgid "Include picons files"
+msgstr "Incloure arxius picon"
+
+msgid "Include camd and script files"
+msgstr "Incloure script d'inici i camd"
+
+msgid "Include common settings"
+msgstr "Incloure configuracions i preferències"
+
+msgid "Include plugins, extensions and skins"
+msgstr "Incloure plugins, extensions i skins"
+
+msgid "Creating backup file... Please wait"
+msgstr "Creant arxiu de còpia... Espereu."
+
+msgid "Backup operation is in progress. Cancel now?"
+msgstr "La còpia s'està realitzant. Voleu cancel·lar-la?"
+
+msgid "Exit and Cancel"
+msgstr "Sortir i cancel·lar la còpia"
+
+msgid ""
+"Backup generated.\n"
+"Press [GREEN] for reboot box and flash new usb image."
+msgstr ""
+"Còpia generada.\n"
+"Premeu [VERD] per reiniciar el receptor i instal·lar la imatge."
+
+msgid "You can also exit and restart and install later."
+msgstr "També podeu sortir del programa i instal·lar en un altre moment."
+
+msgid "Usb path form image firmware"
+msgstr "Ruta per ubicar el firmware a l'usb"
+
+msgid "Reboot"
+msgstr "Reiniciar"
+
+msgid "Exit"
+msgstr "Sortir"
+
+msgid "Do you want to proceed with the installation later and exit without updating?"
+msgstr "Voleu procedir a la instal·lació en un altre moment i sortir sense actualitzar?"
+
+msgid "Exit and flash later"
+msgstr "Sortir i actualitzar en un altre moment"
+
+msgid "The system will be rebooted for flash image"
+msgstr "L'equip es reiniciarà per tal d' instal·lar la imatge."
+
+msgid "ERROR creating copy. See /tmp/spanewfirm.log for more info"
+msgstr "ERROR en generar la còpia. Reviseu l'arxiu /tmp/spanewfirm.log per a més informació"
+
+msgid "Channels"
+msgstr "Llista de canals"
+
+msgid "Picon files a other images"
+msgstr "Arxius picon i d'altres arxius"
+
+msgid "Scripts and camd files"
+msgstr "Scripts i arxius de CAMD"
+
+msgid "Common settings"
+msgstr "Configuració i preferències"
+
+msgid "Plugins and Skins"
+msgstr "Plugins i Skins"
+
+msgid "Restoring data from"
+msgstr "Restaurant les dades de l'arxiu"
+
+msgid "Restoring backup data. Please Wait..."
+msgstr "Restaurant les dades de la còpia. Espereu..."
+
+msgid "Completed. Sytem will be restarted."
+msgstr "Completat. El sistema es reiniciarà per finalitzar."
+
+msgid "Source"
+msgstr "Origen"
+
+msgid "ZIP File decompresed"
+msgstr "Arxiu ZIP descomprimit"
+
+msgid "Not free space avaiable in usb device"
+msgstr "No hi ha prou espai lliure en el medi usb"
+
+msgid "free"
+msgstr "lliures"
+
+msgid "need at least"
+msgstr "com a mínim es necessiten"
+
+msgid "ERROR decompresing ZIP File"
+msgstr "ERROR en descomprimir l'arxiu ZIP"
+
+msgid "It will be installed"
+msgstr "S'instal·larà"
+
+msgid "Help"
+msgstr "Ajuda"
+
+msgid "Follow the manufacturer's instructions for your receiver"
+msgstr "Seguiu les instruccions del fabricant del receptor"
+
+msgid "Installation start automatically"
+msgstr "La instal·lació començarà automàticament"
+
+msgid "No need to run the installation wizards after restoration, but if you wish you can run after restart."
+msgstr "No cal executar els assistents d'instal·lació després de la restauració, però si voleu, podeu executar-los després de reiniciar."
+
+msgid "You want to run the installation wizards?"
+msgstr "Voleu executar els assistents d'instal·lació de totes maneres?"
+
+msgid "Unplug the USB flash drive"
+msgstr "Extraieu el pendrive USB del receptor"
+
+msgid "Exit without restoring data?"
+msgstr "Voleu sortir i cancel·lar sense restaurar la còpia?"
+
+msgid "Press [OK] or [GREEN] for start restore, [RED] for cancel"
+msgstr "Premeu [OK] o [VERD] per iniciar la restauració, [VERMELL] per a cancel·lar."
+
+msgid "Found openSPA backup file"
+msgstr "S'ha trobat una còpia de restauració openSPA"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "If no key pressed restoration auto start in few seconds"
+msgstr "Si no premeu cap tecla, en uns segons s'autoiniciarà la restauració"
+
+msgid "openSPA autorestore"
+msgstr "openSPA - Restauració automàtica"
+
+msgid "Finish restoration. Please wait"
+msgstr "Finalitzant la restauració... Espereu"
+
+msgid "USB Storage"
+msgstr "Medi USB"
+
+msgid "Hard Disk"
+msgstr "Disc Dur"
+
+msgid "The unzipped files do not match the contents of the zip file!"
+msgstr "Els arxius descomprimits no coincideixen amb el contingut de l'arxiu ZIP"
+
+msgid "WARNING. An internal or external device, mounted as /media/hdd, is necessary to use this tool"
+msgstr "ATENCIÓ. Cal disposar d'un dispositiu intern ó extern, muntat a /media/hdd/ per poder utilitzar aquesta eina."
+
+msgid "Install Path"
+msgstr "Ruta d'instal·lació"
+
+msgid "If the installation does not start automatically"
+msgstr "Si la instal·lació no comença automàticament"
+
+msgid "This tool makes it easy to install a new firmware keeping your settings and data."
+msgstr "Aquesta eina facilita la instal·lació d'un nou firmware mantenint la configuració i dades."
+
+msgid "Backup Disk"
+msgstr "Medi per a la còpia"
+
+msgid "The device of /media/hdd must be valid to install a new firmware"
+msgstr "Cal que el dispositiu de /media/hdd sigui vàl·lid per a instal·lar un nou firmware"
+
+msgid "Allows install new firmware keeping settings and data."
+msgstr "Facilita la instal·lació d'un nou firmware mantenint les configuracions i dades"
+
+msgid "Log file to long. Truncated. See file /tmp/spanewfirm.log for complete view"
+msgstr "Arxiu de log massa llarg. Truncat. Veieu-lo complet a /tmp/spanewfirm.log"
+
+msgid "Turn off and turn on the receiver from the back button"
+msgstr "Apagueu i engegueu el receptor des del botó posterior"
+
+msgid "Backup generated."
+msgstr "Còpia generada. "
+
+msgid "Press [GREEN] to go flash online utility."
+msgstr "Premeu [VERD] per accedir a la utilitat de 'Flash online'."
+
+msgid "Press [GREEN] for reboot box and flash new usb image."
+msgstr "Premeu [VERD] per reiniciar el receptor i instal·lar-hi la imatge."
+
+msgid "Manual install"
+msgstr "Instal·lació manual"
+
+msgid " (Existing network mount. Can't be used)"
+msgstr " (Muntatge de red existent. No es pot utilitzar"
+
+msgid "Device"
+msgstr "Dispositiu"
+
+msgid "Press yellow button to try device"
+msgstr "Prèmer botó groc per escollir dispositiu"
+
+msgid "Leave the default skin of the new image"
+msgstr "Deixar el skin per defecte de la nova imatge"
+
+msgid "This tool allows to make backup of main settings."
+msgstr "Aquesta eina permet realitzar backup de les configuracions principals."
+
+msgid "Backup complete. Exiting..."
+msgstr "Backup complet. Sortint..."
+
+msgid "This tool makes it easy to install a new firmware keeping your settings."
+msgstr "Aquesta eina facilita la instalació d'un nou firm mantenint configuració.
+
+msgid "xxx"
+msgstr "yyy"
+

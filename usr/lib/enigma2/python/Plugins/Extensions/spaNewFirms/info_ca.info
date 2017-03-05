@@ -1,0 +1,26 @@
+Aquesta eina facilita a l'usuari el procés d'actualització del firmware del receptor, permetent-li mantenir la configuració, canals, plugins... després d'instal·lar el nou firmware. També realitza la descompressió de l'arxiu zip per a la posterior instal·lació.
+
+PREREQUISITS
+------------------------------
+Un hdd intern o extern, muntat a /media/hdd per realitzar la còpia. Aquesta es farà a la carpeta /backup, i per descomptat amb espai lliure per a la còpia, amb 50-60Mb hauria d'haver-n'hi prou.
+Un pendrive en format fat32 amb un mínim de 200Mb lliures. És indiferent que contingui d'altres arxius o carpetes, car no es perdràn.
+
+INSTRUCCIONS D'ÚS
+------------------------------
+1) Descarregar des d'http://openspa.info la darrera versió del firmware per al vostre receptor i desar l'arxiu .zip (sense descomprimir) a l'arrel del pendrive/usb. 
+
+2) Executar el plugin. Seleccionar l'arxiu zip descarregat en el pas anterior. També es pot descomprimir manualment l'arxiu zip; en aquest cas, cal seleccionar la carpeta típica d'instal·lació per al receptor.
+
+3) Prement [VERD] anirem al pas següent de l'assistent, on hi triarem què volem incloure a la còpia. És possible que hi hagi algun plugin/skin puntual que no es pugui copiar, o que no funcioni correctament en el nou firmware. No s'instal·laràn els plugins/skins que puguin provocar errors, aquests caldrà instal·lar-los manualment després d'actualitzar.
+
+4) El següent pas s'inicia automàticament, es crearà una còpia de la configuració i es descomprimirà l'arxiu zip (si cal).
+
+5) Reiniciar el receptor prement la tecla [VERDA], i instal·lar el nou firmware[#prt#]. També es pot sortir sense reiniciar i fer el reinici manualment més tard.
+
+6) Després d'instal·lar començarà el procés de restauració (depenent del model i les opcions elegides, aquest procés pot trigar uns minuts). Un cop finalitzat podreu triar si mantenir o no els plugins openSPA que ja teníeu, o instal·lar-ne algún de nou. Marqueu els que voldreu i premeu [VERD] per a instal·lar-los.
+
+7) Per acabar es reiniciarà l'equip i ja podreu disfrutar de la nova imatge d'OpenSPA.
+*NOTA: L'skin serà canviat a l'skin per defecte de la nova imatge, per raons de compatibilitat. La contrasenya anterior també es restaurarà.
+
+------------------------------
+Recordeu que, per qualsevol dubte o problema, estem a la vostra disposició a http://openspa.info

@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Enigma2 spaNewFirms Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-26 14:23+0100\n"
+"PO-Revision-Date: 2016-11-20 14:36+0100\n"
+"Last-Translator: morser\n"
+"Language-Team: openSPA <openspa.info>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_ES\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+
+msgid "openSPA updates wizard"
+msgstr "Asistente de actualización OpenSPA"
+
+msgid "Creates a basic copy settings to keep updating the firmware of the receiver."
+msgstr "Crea una copia básica para actualizar el firmware del receptor y mantener la configuración."
+
+msgid "This tool that creates a basic copy settings to keep updating the firmware of the receiver."
+msgstr "Esta herramienta crea una copia básica para mantener la configuración, canales, plugins,..., al actualizar el firmware del receptor."
+
+msgid "Home"
+msgstr "Inicio"
+
+msgid "Options"
+msgstr "Opciones"
+
+msgid "Build"
+msgstr "Preparar"
+
+msgid "Finish"
+msgstr "Finalizar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "Continue"
+msgstr "Continuar"
+
+msgid "Back"
+msgstr "Atrás"
+
+msgid "Enter the new firm in usb path supplied by the manufacturer for this box"
+msgstr "Introduzca el nuevo firm en la ruta del usb proporcionada por el fabricante"
+
+msgid "Enter the new firm in usb stick"
+msgstr "Introduzca el nuevo firmware en el usb en"
+
+msgid "Press"
+msgstr "Pulse el botón"
+
+msgid "button in front panel when restart"
+msgstr "en el frontal del deco al reiniciar para instalar"
+
+msgid "box button when restart"
+msgstr "en el deco al reiniciar para instalar"
+
+msgid "Use flastool image for this box"
+msgstr "Use la herramienta de flasheo específica para este receptor"
+
+msgid "Include channel list"
+msgstr "Incluir lista de canales"
+
+msgid "Include picons files"
+msgstr "Incluir archivos picon"
+
+msgid "Include camd and script files"
+msgstr "Incluir script de inicio y camd"
+
+msgid "Include common settings"
+msgstr "Incluir configuraciones y preferencias"
+
+msgid "Include plugins, extensions and skins"
+msgstr "Incluir plugins, extensiones y skins"
+
+msgid "Creating backup file... Please wait"
+msgstr "Creando archivo de copia... Por favor espere."
+
+msgid "Backup operation is in progress. Cancel now?"
+msgstr "La operación de copia está en progreso. ¿Cancelar copia?"
+
+msgid "Exit and Cancel"
+msgstr "Salir y cancelar copia"
+
+msgid ""
+"Backup generated.\n"
+"Press [GREEN] for reboot box and flash new usb image."
+msgstr ""
+"Copia generada.\n"
+"Pulse [VERDE] para reiniciar el receptor y flashear la imagen."
+
+msgid "You can also exit and restart and install later."
+msgstr "También puede salir del programa y reiniciar en otro momento."
+
+msgid "Usb path form image firmware"
+msgstr "Ruta para ubicar la imagen en el usb"
+
+msgid "Reboot"
+msgstr "Reiniciar"
+
+msgid "Exit"
+msgstr "Salir"
+
+msgid "Do you want to proceed with the installation later and exit without updating?"
+msgstr "Quiere proceder a la instalación en otro momento y salir sin actualizar?"
+
+msgid "Exit and flash later"
+msgstr "Salir y actualizar en otro momento"
+
+msgid "The system will be rebooted to flash image"
+msgstr "El equipo se reiniciará para flashear la imagen."
+
+msgid "ERROR creating copy. See /tmp/spanewfirm.log for more info"
+msgstr "ERROR generando la copia. Revise el archivo /tmp/spanewfirm.log para más información"
+
+msgid "Channels"
+msgstr "Lista de canales"
+
+msgid "Picon files a other images"
+msgstr "Archivos picon y otros archivos"
+
+msgid "Scripts and camd files"
+msgstr "Scripts y archivos CAMD"
+
+msgid "Common settings"
+msgstr "Configuración y preferencias"
+
+msgid "Plugins and Skins"
+msgstr "Plugins y Skins"
+
+msgid "Restoring data from"
+msgstr "Restaurando datos del archivo"
+
+msgid "Restoring backup data. Please Wait..."
+msgstr "Restaurando datos de la copia. Por favor espere..."
+
+msgid "Completed. Sytem will be restarted."
+msgstr "Completado. El sistema se reiniciará para terminar."
+
+msgid "Source"
+msgstr "Origen"
+
+msgid "ZIP File decompresed"
+msgstr "Archivo ZIP descomprimido"
+
+msgid "Not free space avaiable in usb device"
+msgstr "No hay suficiente espacio libre en el medio usb"
+
+msgid "free"
+msgstr "libres"
+
+msgid "need at least"
+msgstr "se necesita al menos"
+
+msgid "ERROR decompresing ZIP File"
+msgstr "ERROR descomprimiendo archivo ZIP"
+
+msgid "It will be installed"
+msgstr "Se instalará"
+
+msgid "Help"
+msgstr "Ayuda"
+
+msgid "Follow the manufacturer's instructions for your receiver"
+msgstr "Siga las instrucciones del fabricante de su receptor"
+
+msgid "Installation start automatically"
+msgstr "La instalación empezará automáticamente"
+
+msgid "No need to run the installation wizards after restoration, but if you wish you can run after restart."
+msgstr "No es necesario ejecutar los asistentes de instalación después de la restauración, pero si lo desea puede ejecutarlos después de reiniciar."
+
+msgid "You want to run the installation wizards?"
+msgstr "¿Desea ejecutar los asistentes de instalación de todas formas?"
+
+msgid "Unplug the USB flash drive"
+msgstr "Extraiga el stick USB del receptor"
+
+msgid "Exit without restoring data?"
+msgstr "¿Desea salir y cancelar sin restaurar la copia?"
+
+msgid "Press [OK] or [GREEN] for start restore, [RED] for cancel"
+msgstr "Pulse [OK] o [VERDE] para iniciar la restauración, [ROJO] para cancelar."
+
+msgid "Found openSPA backup file"
+msgstr "Se ha encontrado una copia de restauración openSPA"
+
+msgid "Date"
+msgstr "Fecha"
+
+msgid "If no key pressed restoration auto start in few seconds"
+msgstr "Si no pulsa ninguna tecla, en unos segundos se autoiniciará la restauración"
+
+msgid "openSPA autorestore"
+msgstr "openSPA - Restauración automática"
+
+msgid "Finish restoration. Please wait"
+msgstr "Finalizando la restauración... Por favor espere"
+
+msgid "USB Storage"
+msgstr "Medio USB"
+
+msgid "Hard Disk"
+msgstr "Disco Duro"
+
+msgid "The unzipped files do not match the contents of the zip file!"
+msgstr "Los archivos descomprimidos no coinciden con el contenido del archivo ZIP"
+
+msgid "WARNING. An internal or external device, mounted at /media/, is necessary to use this tool"
+msgstr "ATENCIÓN. Es necesario un dispositivo interno o externo, montado en /media/ para poder usar esta herramienta."
+
+msgid "Install Path"
+msgstr "Ruta de instalación"
+
+msgid "If the installation does not start automatically"
+msgstr "Si la instalación no comienza automáticamente"
+
+msgid "This tool makes it easy to install a new firmware keeping your settings and data."
+msgstr "Esta herramienta facilita la instalación de un nuevo firm manteniendo configuración y datos."
+
+msgid "This tool makes it easy to install a new firmware keeping your settings."
+msgstr "Esta herramienta facilita la instalación de un nuevo firm manteniendo configuración.
+
+msgid "Backup Disk"
+msgstr "Medio para copia"
+
+msgid "The device of /media/hdd must be valid to install a new firmware"
+msgstr "El dispositivo de /media/hdd debe ser válido para instalar un nuevo firmware"
+
+msgid "Allows install new firmware keeping settings and data."
+msgstr "Facilita la instalación de un nuevo firm manteniendo configuraciones y datos"
+
+msgid "Log file to long. Truncated. See file /tmp/spanewfirm.log for complete view"
+msgstr "Archivo de log demasiado largo. Truncado. Consúltelo completo en /tmp/spanewfirm.log"
+
+msgid "Turn off and turn on the receiver from the back button"
+msgstr "Apague y encienda el receptor desde el botón trasero"
+
+msgid "Backup generated."
+msgstr "Copia generada. "
+
+msgid "Press [GREEN] to go flash online utility."
+msgstr "Pulse [VERDE] para acceder a la utilidad de 'Flash online'."
+
+msgid "Press [GREEN] for reboot box and flash new usb image."
+msgstr "Pulse [VERDE] para reiniciar el receptor y flashear la imagen."
+
+msgid "Manual install"
+msgstr "Instalación manual"
+
+msgid "xxx"
+msgstr "yyy"
+
+msgid " (Existing network mount. Can't be used)"
+msgstr " (Montaje de red existente. No se puede usar"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Press yellow button to try device"
+msgstr "Presionar botón amarillo para escoger dispositivo"
+
+msgid "Leave the default skin of the new image"
+msgstr "Dejar el skin por defecto de la nueva imagen"
+
+msgid "This tool allows to make backup of main settings."
+msgstr "Esta herramienta permite realizar backup de las configuraciones principales."
+
+msgid "Backup complete. Exiting..."
+msgstr "Backup completo. Saliendo..."
